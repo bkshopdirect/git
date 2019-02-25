@@ -1,0 +1,6 @@
+Here is the first file of the commit and ofcourse with it some changes...
+
+	There is a file called quotes.txt
+	In this file you will find 3 quotes
+
+Enjoy.
