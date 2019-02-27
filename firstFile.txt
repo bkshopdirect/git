@@ -4,3 +4,4 @@ Here is the first file of the commit and ofcourse with it some changes...
 	In this file you will find 3 quotes
 
 Enjoy.
+added a line
