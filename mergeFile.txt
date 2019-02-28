@@ -3,6 +3,6 @@ This is a special line of the file as it will cause a merge conflict. Insert a w
 Now that you have changed your word, save and close
 
 
-gc change to gc_branch2
+gc change to gc_branch2 new text for branch2
 
 
