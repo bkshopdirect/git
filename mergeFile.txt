@@ -1,3 +1,6 @@
 Here is the mergefile
 This is a special line of the file as it will cause a merge conflict. Insert a word here --> ______
 Now that you have changed your word, save and close
+
+
+gc changes to master branch
